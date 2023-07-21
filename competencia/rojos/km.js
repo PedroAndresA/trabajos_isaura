@@ -1,0 +1,1 @@
+var x = prompt ("digita un numero") ;
